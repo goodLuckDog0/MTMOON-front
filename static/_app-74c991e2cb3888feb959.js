@@ -177,7 +177,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                             Object(c.jsxs)(w.a, {
                                                 children: [
                                                     Object(c.jsx)("meta", { name: "viewport", content: "width=device-width, initial-scale=1, shrink-to-fit=no" }),
-                                                    Object(c.jsx)("title", { children: "BobaInu" }),
+                                                    Object(c.jsx)("title", { children: "MTMOON" }),
                                                     Object(c.jsx)("script", { async: !0, src: "https://www.googletagmanager.com/gtag/js?id=".concat("G-8NDTPBX9J7") }),
                                                     Object(c.jsx)("script", {
                                                         dangerouslySetInnerHTML: {

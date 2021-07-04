@@ -42,7 +42,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                         className: "mt-6 lg:mb-0 mb-6",
                                                         children: [
                                                             Object(s.jsx)("a", {
-                                                                href: "https://twitter.com/BobaInu",
+                                                                href: "https://twitter.com/MTMOON001",
                                                                 target: "_blank",
                                                                 children: Object(s.jsx)("button", {
                                                                     className: "bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2",
@@ -51,16 +51,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                 }),
                                                             }),
                                                             Object(s.jsx)("a", {
-                                                                href: "https://www.instagram.com/BobaInu/",
-                                                                target: "_blank",
-                                                                children: Object(s.jsx)("button", {
-                                                                    className: "bg-white text-red-500 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2",
-                                                                    type: "button",
-                                                                    children: Object(s.jsx)("i", { className: "fab fa-instagram" }),
-                                                                }),
-                                                            }),
-                                                            Object(s.jsx)("a", {
-                                                                href: "https://t.me/BobaInu",
+                                                                href: "https://t.me/MTMOONGroup",
                                                                 target: "_blank",
                                                                 children: Object(s.jsx)("button", {
                                                                     className: "bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2",
@@ -87,28 +78,28 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                         Object(s.jsx)("li", {
                                                                             children: Object(s.jsx)("a", {
                                                                                 className: "text-blueGray-400 hover:text-blueGray-600 font-semibold block pb-2 text-sm",
-                                                                                href: "https://bscscan.com/token/0x69bb6252f6a4c57ed8845390d825f7cfc9195da6",
+                                                                                href: "https://polygonscan.com/address/0xCD49C497c1A10Bd138a17533642A45af53fCb7b8",
                                                                                 children: "Contract",
                                                                             }),
                                                                         }),
                                                                         Object(s.jsx)("li", {
                                                                             children: Object(s.jsx)("a", {
                                                                                 className: "text-blueGray-400 hover:text-blueGray-600 font-semibold block pb-2 text-sm",
-                                                                                href: "https://poocoin.app/",
+                                                                                href: "https://polygon.poocoin.app/tokens/0xcd49c497c1a10bd138a17533642a45af53fcb7b8",
                                                                                 children: "Chart",
                                                                             }),
                                                                         }),
                                                                         Object(s.jsx)("li", {
                                                                             children: Object(s.jsx)("a", {
                                                                                 className: "text-blueGray-400 hover:text-blueGray-600 font-semibold block pb-2 text-sm",
-                                                                                href: "https://exchange.pancakeswap.finance",
-                                                                                children: "PancakeSwap",
+                                                                                href: "https://quickswap.exchange/#/swap?outputCurrency=0xCD49C497c1A10Bd138a17533642A45af53fCb7b8",
+                                                                                children: "Quickswap",
                                                                             }),
                                                                         }),
                                                                         Object(s.jsx)("li", {
                                                                             children: Object(s.jsx)("a", {
                                                                                 className: "text-blueGray-400 hover:text-blueGray-600 font-semibold block pb-2 text-sm",
-                                                                                href: "https://dxsale.app/",
+                                                                                href: "https://polygonscan.com/tx/0xc0c58476c7a756f4591c8234aade3902acdca12e1d7b6cae1043a0c2e9646d5b",
                                                                                 children: "Liquidity Lock",
                                                                             }),
                                                                         }),
@@ -125,14 +116,14 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                     children: Object(s.jsx)("li", {
                                                                         children: Object(s.jsx)("a", {
                                                                             className: "text-blueGray-400 hover:text-blueGray-600 font-semibold block pb-2 text-sm",
-                                                                            href: "mailto:support@BobaInu.com",
+                                                                            href: "https://t.me/MTMOONGroup",
                                                                             children: "Contact Us",
                                                                         }),
                                                                     }),
                                                                 }),
                                                             ],
                                                         }),
-                                                    ],
+                                                    // ],
                                                 }),
                                             }),
                                         ],
@@ -147,10 +138,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                 children: [
                                                     "Copyright \xa9 ",
                                                     new Date().getFullYear(),
-                                                    " BobaInu using ",
-                                                    " ",
-                                                    Object(s.jsx)("a", { href: "https://www.creative-tim.com/product/notus-nextjs", className: "text-blueGray-500 hover:text-blueGray-800", children: "Notus NextJS" }),
-                                                    ".",
+                                                    " MTMOON",
+                                                    ,
                                                 ],
                                             }),
                                         }),
@@ -270,7 +259,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                         children: Object(s.jsx)("div", {
                                                             className: "relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg",
                                                             children: Object(s.jsx)("a", {
-                                                                href: "https://bscscan.com/token/0x69bb6252f6a4c57ed8845390d825f7cfc9195da6",
+                                                                href: "https://polygonscan.com/token/0xCD49C497c1A10Bd138a17533642A45af53fCb7b8",
                                                                 target: "_blank",
                                                                 children: Object(s.jsxs)("div", {
                                                                     className: "px-4 py-5 flex-auto",
@@ -320,10 +309,10 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                             Object(s.jsx)(c.a, {
                                                                 href: "/",
                                                                 children: Object(s.jsx)("a", {
-                                                                    href: "https://exchange.pancakeswap.finance/",
+                                                                    href: "https://quickswap.exchange/#/swap?outputCurrency=0xCD49C497c1A10Bd138a17533642A45af53fCb7b8",
                                                                     target: "_blank",
                                                                     className: "font-bold text-blueGray-700 mt-8",
-                                                                    children: "Go buy on Pancakeswap!",
+                                                                    children: "Go buy on Quickswap!",
                                                                 }),
                                                             }),
                                                         ],
@@ -738,28 +727,6 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                     id: "example-navbar-warning",
                                     children: [
                                         Object(s.jsxs)("ul", {
-                                            className: "flex flex-col lg:flex-row list-none mr-auto",
-                                            children: [
-                                                Object(s.jsx)("li", {
-                                                    className: "flex items-center",
-                                                    children: Object(s.jsxs)("a", {
-                                                        className: "lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold",
-                                                        href: "https://bscscan.com/token/0x69bb6252f6a4c57ed8845390d825f7cfc9195da6",
-                                                        target: "_blank",
-                                                        children: [Object(s.jsx)("i", { className: "lg:text-blueGray-200 text-blueGray-400 far fa-file-alt text-lg leading-lg mr-2" }), " ", "Contract"],
-                                                    }),
-                                                }),
-                                                Object(s.jsx)("li", {
-                                                    className: "flex items-center",
-                                                    children: Object(s.jsxs)("a", {
-                                                        className: "lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold",
-                                                        href: "/giveaway",
-                                                        children: [Object(s.jsx)("i", { className: "lg:text-blueGray-200 text-blueGray-400 fas fa-gift text-lg leading-lg mr-2" }), " ", "Giveaway!"],
-                                                    }),
-                                                }),
-                                            ],
-                                        }),
-                                        Object(s.jsxs)("ul", {
                                             className: "flex flex-col lg:flex-row list-none lg:ml-auto",
                                             children: [
                                                 Object(s.jsx)("li", {
@@ -775,7 +742,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                     className: "flex items-center",
                                                     children: Object(s.jsxs)("a", {
                                                         className: "lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold",
-                                                        href: "https://twitter.com/BobaInu",
+                                                        href: "https://twitter.com/MTMOON001",
                                                         target: "_blank",
                                                         children: [
                                                             Object(s.jsx)("i", { className: "lg:text-blueGray-200 text-blueGray-400 fab fa-twitter text-lg leading-lg " }),
@@ -787,7 +754,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                     className: "flex items-center",
                                                     children: Object(s.jsxs)("a", {
                                                         className: "lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold",
-                                                        href: "https://t.me/BobaInu",
+                                                        href: "https://t.me/MTMOONGroup",
                                                         target: "_blank",
                                                         children: [
                                                             Object(s.jsx)("i", { className: "lg:text-blueGray-200 text-blueGray-400 fab fa-telegram-plane text-lg leading-lg " }),
@@ -798,23 +765,11 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                 Object(s.jsx)("li", {
                                                     className: "flex items-center",
                                                     children: Object(s.jsxs)("a", {
-                                                        className: "lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold",
-                                                        href: "https://www.instagram.com/BobaInu/",
-                                                        target: "_blank",
-                                                        children: [
-                                                            Object(s.jsx)("i", { className: "lg:text-blueGray-200 text-blueGray-400 fab fa-instagram text-lg leading-lg " }),
-                                                            Object(s.jsx)("span", { className: "lg:hidden inline-block ml-2", children: "Instagram" }),
-                                                        ],
-                                                    }),
-                                                }),
-                                                Object(s.jsx)("li", {
-                                                    className: "flex items-center",
-                                                    children: Object(s.jsxs)("a", {
                                                         className:
                                                             "bg-white text-blueGray-700 active:bg-blueGray-50 text-xs font-bold uppercase px-4 py-2 rounded shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3 ease-linear transition-all duration-150",
                                                         type: "button",
                                                         target: "_blank",
-                                                        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=",
+                                                        href: "https://quickswap.exchange/#/swap?outputCurrency=0xCD49C497c1A10Bd138a17533642A45af53fCb7b8",
                                                         children: [Object(s.jsx)("i", { className: "fas fa-coins" }), " Buy"],
                                                     }),
                                                 }),
