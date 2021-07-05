@@ -123,7 +123,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                 }),
                                                             ],
                                                         }),
-                                                    // ],
+                                                    ],
                                                 }),
                                             }),
                                         ],
@@ -214,7 +214,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                         children: Object(s.jsx)("div", {
                                                             className: "relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg",
                                                             children: Object(s.jsx)("a", {
-                                                                href: "https://dxsale.app",
+                                                                href: "https://polygonscan.com/tx/0xc0c58476c7a756f4591c8234aade3902acdca12e1d7b6cae1043a0c2e9646d5b",
                                                                 target: "_blank",
                                                                 children: Object(s.jsxs)("div", {
                                                                     className: "px-4 py-5 flex-auto",
@@ -244,11 +244,11 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                         className: "text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400",
                                                                         children: Object(s.jsx)("i", { className: "fas fa-paw" }),
                                                                     }),
-                                                                    Object(s.jsx)("h6", { className: "text-xl font-semibold", children: "Kawaii Doge Coin" }),
+                                                                    Object(s.jsx)("h6", { className: "text-xl font-semibold", children: "MTMOON Coin" }),
                                                                     Object(s.jsx)("p", {
                                                                         className: "mt-2 mb-4 text-blueGray-500",
                                                                         children:
-                                                                            "Sniffing around for a coin that\u2019ll make you money while doing good? BobaInu is the charity coin to end all doge coins. Liquidity Locked, Dev tokens Burnt. 100% Saifu. Percentage of proceeds go toward Animal Shelters that help pups in need.",
+                                                                            "The mechanism adopts the burning + holding dividend model, no need to swipe orders, no need to buy more, hold and pay dividends. Anti-whale, anti-scientist, anti-smashing mode: a single limit of 1,000,000,000.",
                                                                     }),
                                                                 ],
                                                             }),
@@ -282,7 +282,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                 ],
                                             }),
                                             Object(s.jsxs)("div", {
-                                                className: "flex flex-wrap items-center mt-32",
+                                                className: "flex flex-wrap items-center mt-12",
                                                 children: [
                                                     Object(s.jsxs)("div", {
                                                         className: "w-full md:w-5/12 px-4 mr-auto ml-auto",
@@ -295,16 +295,16 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                             Object(s.jsxs)("p", {
                                                                 className: "text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600",
                                                                 children: [
-                                                                    "We're here to bring you a fun community and a lot of fluffin\u2019 money. BobaInu has transparent and familiar tokenomics. For each transaction, ",
-                                                                    Object(s.jsx)("b", { children: "10%" }),
-                                                                    " burned forever and ",
-                                                                    Object(s.jsx)("b", { children: "10%" }),
+                                                                    "We're here to bring you a fun community and a lot of fluffin' money. MTMOON has transparent and familiar tokenomics. For each transaction,",
+                                                                    Object(s.jsx)("b", { children: "5%" }),
+                                                                    " liquidity (adding to liquidity) and ",
+                                                                    Object(s.jsx)("b", { children: "5%" }),
                                                                     " is reflected to all holders.",
                                                                 ],
                                                             }),
                                                             Object(s.jsxs)("p", {
                                                                 className: "text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600",
-                                                                children: ["This means you'll want to set your purchases to ", Object(s.jsx)("b", { children: "17%+ slippage" }), " depending on volatility."],
+                                                                children: ["This means you'll want to set your purchases to ", Object(s.jsx)("b", { children: "12%+ slippage" }), " depending on volatility."],
                                                             }),
                                                             Object(s.jsx)(c.a, {
                                                                 href: "/",
@@ -358,7 +358,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                     Object(s.jsx)("div", {
                                                         className: "w-full md:w-5/12 ml-auto mr-auto px-4",
                                                         children: Object(s.jsxs)("div", {
-                                                            className: "md:pr-12",
+                                                            className: "md:pr-12 mt-16",
                                                             children: [
                                                                 Object(s.jsx)("div", {
                                                                     className: "text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-blueGray-200",
@@ -398,37 +398,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                                             children: Object(s.jsx)("i", { className: "fas fa-check-circle" }),
                                                                                         }),
                                                                                     }),
-                                                                                    Object(s.jsx)("div", { children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "PooCoin ads" }) }),
-                                                                                ],
-                                                                            }),
-                                                                        }),
-                                                                        Object(s.jsx)("li", {
-                                                                            className: "py-2",
-                                                                            children: Object(s.jsxs)("div", {
-                                                                                className: "flex items-center",
-                                                                                children: [
-                                                                                    Object(s.jsx)("div", {
-                                                                                        children: Object(s.jsx)("span", {
-                                                                                            className: "text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-100 mr-3",
-                                                                                            children: Object(s.jsx)("i", { className: "far fa-circle" }),
-                                                                                        }),
-                                                                                    }),
                                                                                     Object(s.jsx)("div", { children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "Updated website (further updates incoming)" }) }),
-                                                                                ],
-                                                                            }),
-                                                                        }),
-                                                                        Object(s.jsx)("li", {
-                                                                            className: "py-2",
-                                                                            children: Object(s.jsxs)("div", {
-                                                                                className: "flex items-center",
-                                                                                children: [
-                                                                                    Object(s.jsx)("div", {
-                                                                                        children: Object(s.jsx)("span", {
-                                                                                            className: "text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-100 mr-3",
-                                                                                            children: Object(s.jsx)("i", { className: "far fa-circle" }),
-                                                                                        }),
-                                                                                    }),
-                                                                                    Object(s.jsx)("div", { children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "TechRate Audit" }) }),
                                                                                 ],
                                                                             }),
                                                                         }),
@@ -458,9 +428,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                                             children: Object(s.jsx)("i", { className: "far fa-circle" }),
                                                                                         }),
                                                                                     }),
-                                                                                    Object(s.jsx)("div", {
-                                                                                        children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "Setup donation wallet / researching awesome charities" }),
-                                                                                    }),
+                                                                                    Object(s.jsx)("div", { children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "Telegram price bot" }) }),
                                                                                 ],
                                                                             }),
                                                                         }),
@@ -475,7 +443,24 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                                             children: Object(s.jsx)("i", { className: "far fa-circle" }),
                                                                                         }),
                                                                                     }),
-                                                                                    Object(s.jsx)("div", { children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "CoinGecko listing" }) }),
+                                                                                    Object(s.jsx)("div", { children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "TechRate Audit" }) }),
+                                                                                ],
+                                                                            }),
+                                                                        }),
+                                                                        Object(s.jsx)("li", {
+                                                                            className: "py-2",
+                                                                            children: Object(s.jsxs)("div", {
+                                                                                className: "flex items-center",
+                                                                                children: [
+                                                                                    Object(s.jsx)("div", {
+                                                                                        children: Object(s.jsx)("span", {
+                                                                                            className: "text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-100 mr-3",
+                                                                                            children: Object(s.jsx)("i", { className: "far fa-circle" }),
+                                                                                        }),
+                                                                                    }),
+                                                                                    Object(s.jsx)("div", {
+                                                                                        children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "feixiaohao listing" }),
+                                                                                    }),
                                                                                 ],
                                                                             }),
                                                                         }),
@@ -520,22 +505,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                                             children: Object(s.jsx)("i", { className: "far fa-circle" }),
                                                                                         }),
                                                                                     }),
-                                                                                    Object(s.jsx)("div", { children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "Telegram price bot" }) }),
-                                                                                ],
-                                                                            }),
-                                                                        }),
-                                                                        Object(s.jsx)("li", {
-                                                                            className: "py-2",
-                                                                            children: Object(s.jsxs)("div", {
-                                                                                className: "flex items-center",
-                                                                                children: [
-                                                                                    Object(s.jsx)("div", {
-                                                                                        children: Object(s.jsx)("span", {
-                                                                                            className: "text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-100 mr-3",
-                                                                                            children: Object(s.jsx)("i", { className: "far fa-circle" }),
-                                                                                        }),
-                                                                                    }),
-                                                                                    Object(s.jsx)("div", { children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "Boba Inu NFTs" }) }),
+                                                                                    Object(s.jsx)("div", { children: Object(s.jsx)("h4", { className: "text-blueGray-500", children: "Develop AutoFarm" }) }),
                                                                                 ],
                                                                             }),
                                                                         }),
@@ -578,17 +548,17 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                             Object(s.jsx)("p", {
                                                                 className: "text-lg leading-relaxed m-4 text-blueGray-500",
                                                                 children:
-                                                                    "BobaInu is the lovedawg of a group of devs who met over telegram and shared a passion for dogs, animal welfare, and money. You could even say we\u2019re classy mother puppers.",
+                                                                    "MTMOON is the lovedawg of a group of devs who met over telegram and shared Technology, MTMOON, and money.",
                                                             }),
                                                             Object(s.jsx)("p", {
                                                                 className: "text-lg leading-relaxed m-4 text-blueGray-500",
                                                                 children:
-                                                                    "Look, BobaInu is super cute. But she\u2019s also serious about making a DIFFERENCE. For once, you can have 100% confidence that not only are your funds saifu - but your money is going to a good cause - helping puppers around the globe while helping you quit your 9-5.",
+                                                                    "MTMOON, no pre-sale, no reservation, no development wallet, dedicated to building the first moon on the Matic chain.",
                                                             }),
                                                             Object(s.jsx)("p", {
                                                                 className: "text-lg leading-relaxed m-4 text-blueGray-500",
                                                                 children:
-                                                                    "Below are the big dogs on our team, but there are MANY more contributors who make this token what it is. We appreciate each and every one of you in our one-of-kind, super-dedicated community. Hit up the tg and say woof!",
+                                                                    "Below are the big dogs on our team, but there are MANY more contributors who make this token what it is. We appreciate each and every one of you in our one-of-kind, super-dedicated community. Hit up the tg and say up!",
                                                             }),
                                                         ],
                                                     }),
@@ -605,7 +575,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                                     Object(s.jsxs)("div", {
                                                                         className: "pt-6 text-center",
                                                                         children: [
-                                                                            Object(s.jsx)("h5", { className: "text-xl font-bold", children: "Mystery Dev \ud83d\ude0e" }),
+                                                                            Object(s.jsx)("h5", { className: "text-xl font-bold", children: "Mystery Dev" }),
                                                                             Object(s.jsx)("p", { className: "mt-1 text-sm text-blueGray-400 uppercase font-semibold", children: "Deployer" }),
                                                                             Object(s.jsx)("div", { className: "mt-6" }),
                                                                         ],
@@ -618,16 +588,16 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                             children: Object(s.jsxs)("div", {
                                                                 className: "px-6",
                                                                 children: [
-                                                                    Object(s.jsx)("img", { alt: "...", src: "siddy.jpg", className: "shadow-lg rounded-full mx-auto max-w-120-px" }),
+                                                                    Object(s.jsx)("img", { alt: "...", src: "sc.jpg", className: "shadow-lg rounded-full mx-auto max-w-120-px" }),
                                                                     Object(s.jsxs)("div", {
                                                                         className: "pt-6 text-center",
                                                                         children: [
-                                                                            Object(s.jsx)("h5", { className: "text-xl font-bold", children: "BobaWhale" }),
+                                                                            Object(s.jsx)("h5", { className: "text-xl font-bold", children: "Moon Beauty" }),
                                                                             Object(s.jsx)("p", { className: "mt-1 text-sm text-blueGray-400 uppercase font-semibold", children: "Marketing Specialist" }),
                                                                             Object(s.jsx)("div", {
                                                                                 className: "mt-6",
                                                                                 children: Object(s.jsx)("a", {
-                                                                                    href: "#",
+                                                                                    href: "https://t.me/MTMOONGroup",
                                                                                     target: "_blank",
                                                                                     children: Object(s.jsx)("button", {
                                                                                         className: "bg-lightBlue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1",
@@ -646,16 +616,16 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                             children: Object(s.jsxs)("div", {
                                                                 className: "px-6",
                                                                 children: [
-                                                                    Object(s.jsx)("img", { alt: "...", src: "lambo.jpg", className: "shadow-lg rounded-full mx-auto max-w-120-px" }),
+                                                                    Object(s.jsx)("img", { alt: "...", src: "no-txt-logo.jpg", className: "shadow-lg rounded-full mx-auto max-w-120-px" }),
                                                                     Object(s.jsxs)("div", {
                                                                         className: "pt-6 text-center",
                                                                         children: [
-                                                                            Object(s.jsx)("h5", { className: "text-xl font-bold", children: "BobaLover" }),
-                                                                            Object(s.jsx)("p", { className: "mt-1 text-sm text-blueGray-400 uppercase font-semibold", children: "Web Developer" }),
+                                                                            Object(s.jsx)("h5", { className: "text-xl font-bold", children: "MTMOON" }),
+                                                                            Object(s.jsx)("p", { className: "mt-1 text-sm text-blueGray-400 uppercase font-semibold", children: "Group Admin" }),
                                                                             Object(s.jsx)("div", {
                                                                                 className: "mt-6",
                                                                                 children: Object(s.jsx)("a", {
-                                                                                    href: "#",
+                                                                                    href: "https://t.me/MTMOONGroup",
                                                                                     target: "_blank",
                                                                                     children: Object(s.jsx)("button", {
                                                                                         className: "bg-lightBlue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1",
@@ -710,7 +680,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                     children: [
                                         Object(s.jsx)(r.a, {
                                             href: "/",
-                                            children: Object(s.jsx)("a", { className: "text-white text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase", href: "#", children: "BobaInu" }),
+                                            children: Object(s.jsx)("a", { className: "text-white text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase", href: "#", children: "MTMOON" }),
                                         }),
                                         Object(s.jsx)("button", {
                                             className: "cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none",
@@ -726,6 +696,21 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                     className: "lg:flex flex-grow items-center bg-white lg:bg-opacity-0 lg:shadow-none" + (c ? " block rounded shadow-lg" : " hidden"),
                                     id: "example-navbar-warning",
                                     children: [
+                                        Object(s.jsxs)("ul", {
+                                            className: "flex flex-col lg:flex-row list-none mr-auto",
+                                            children: [
+                                                Object(s.jsx)("li", {
+                                                    className: "flex items-center",
+                                                    children: Object(s.jsxs)("a", {
+                                                        className: "lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold",
+                                                        href: "https://polygonscan.com/token/0xCD49C497c1A10Bd138a17533642A45af53fCb7b8",
+                                                        target: "_blank",
+                                                        children: [Object(s.jsx)("i", { className: "lg:text-blueGray-200 text-blueGray-400 far fa-file-alt text-lg leading-lg mr-2" }), " ", "Contract"],
+                                                    }),
+                                                }),
+                                            ],
+                                        }),
+
                                         Object(s.jsxs)("ul", {
                                             className: "flex flex-col lg:flex-row list-none lg:ml-auto",
                                             children: [
