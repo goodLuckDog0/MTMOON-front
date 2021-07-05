@@ -720,7 +720,10 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                         className: "lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold",
                                                         href: "https://poocoin.app/tokens/0xc7a249D3021b1d62669b2B5cE65D8410b9A44A43",
                                                         target: "_blank",
-                                                        children: Object(s.jsx)("span", { className: "inline-block ml-2", children: "Chart" }),
+                                                        children: [
+                                                            Object(s.jsx)("i", { className: "lg:text-blueGray-200 text-blueGray-400 fab fa-ad text-lg leading-lg " }),
+                                                            Object(s.jsx)("span", { className: "inline-block ml-2", children: "Chart" }),
+                                                        ]
                                                     }),
                                                 }),
                                                 Object(s.jsx)("li", {
