@@ -708,6 +708,16 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                                         children: [Object(s.jsx)("i", { className: "lg:text-blueGray-200 text-blueGray-400 far fa-file-alt text-lg leading-lg mr-2" }), " ", "Contract"],
                                                     }),
                                                 }),
+                                                Object(s.jsx)("li", {
+                                                    className: "flex items-center",
+                                                    children: Object(s.jsxs)("a", {
+                                                        // <i class="lg:text-blueGray-200 text-blueGray-400 fas fa-gift text-lg leading-lg mr-2"></i> 
+                                                        className: "lg:text-blueGray-200 text-blueGray-400 fas fa-gift text-lg leading-lg mr-2",
+                                                        href: "https://forms.gle/f5vTiKREd8DWsT5GA",
+                                                        target: "_blank",
+                                                        children: [Object(s.jsx)("i", { className: "lg:text-blueGray-200 text-blueGray-400 far fa-file-alt text-lg leading-lg mr-2" }), " ", "Get Airdrop"],
+                                                    }),
+                                                }),
                                             ],
                                         }),
 
